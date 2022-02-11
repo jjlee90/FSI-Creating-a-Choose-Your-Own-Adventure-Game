@@ -1,0 +1,83 @@
+.ag-header-controls .tooltip_link {
+    color: #fff;
+}
+
+.item-group-condensed .ig-header {
+    background-color: #5A5858;
+    border: none;
+    color: white;
+}
+
+.item-group-condensed .ig-header:hover {
+    background-color: #3c3b3b;
+}
+
+.item-group-condensed .ig-header .publish-icon.publish-icon-published {
+	color: #07E022;
+}
+
+.ig-header .publish-icon,
+.ig-header .Button--icon-action,
+.ig-header .Button--icon-action-rev,
+.ig-header .icon-drag-handle {
+	color: white;
+}
+
+.pill {
+    display: inline-block;
+    margin: 0;
+    list-style: none;
+    border-radius: 1em;
+    border: 1px solid white;
+    box-shadow: none;
+}
+
+.ig-header .name, .ig-header .ig-header-title button {
+    color: #ffffff;
+    font-size: 16px;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+.ig-header .name:hover, .ig-header .ig-header-title button:hover {
+    text-decoration: underline;
+}
+
+.indent_0.ContextModuleSubHeader_0 > .ig-row {
+    background: #eae9e9;
+}
+
+.indent_0.context_module_item.context_module_sub_header .locked_title {
+	font-size: 16px;
+    color: #2d3b45;
+}
+
+.context_module_item.context_module_sub_header .locked_title {
+    font-size: 16px;
+    color: #2d3b45;
+}
+
+.rubric_container table.ratings {
+    table-layout: fixed;
+}
+
+.rubric_container table.ratings td {
+    word-break: break-all;
+}
+
+.ig-header-title a {
+    color: white;
+}
+
+.ig-header-title a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.mini_calendar .day {
+    color: #005485;
+}
+
+.mini_calendar .day.other_month {
+    color: #545454;
+}
